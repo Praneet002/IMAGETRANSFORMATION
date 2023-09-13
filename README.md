@@ -33,8 +33,8 @@ Display all the Transformed images.
 
 ## Program:
 ```
-Developed By: SASIDEVI V
-Register Number: 212222230136
+Developed By: PRANEET S
+Register Number: 212221230078
 ```
 ```
 i)Image Translation
